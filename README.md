@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anurag256
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming, git and linux commands
 - 🌱 I’m currently learning Git and script.shell
-- 💞️ I’m looking to collaborate on websit developing with React
+- 💞️ I’m good in HTML, CSS, Bootstrap, Javascript, react js, PHP, git and linux command line so i'm looking to collaborate on websit developing and maintaine.
 - 📫 How to reach me email : anurag.yadav544@gmail.com
 
 <!---
